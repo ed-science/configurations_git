@@ -1,1 +1,3 @@
 teste de atualização do arquivo 2
+
+funcionalidade x
